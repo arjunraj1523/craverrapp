@@ -17,7 +17,8 @@ def printList(listdata):
         print("<div class='placesNearYou'>")
         print("<h2>Places Near You!</h2>")
         print("<ol style='list-style:none;margin-left: -60px;'>")
-        for x in range(0,len(listdata[0])):
+        if (len(listdata[0])>0):
+            for x in range(0,len(listdata[0])):
                     print("<li>")
                     print("<b>")
                     print listdata[0][x]
