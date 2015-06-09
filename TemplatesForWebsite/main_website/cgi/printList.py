@@ -29,6 +29,8 @@ def printList(listdata):
                     print("</li>")
                     print("</ul>")
                     print("</li>")
+        else :
+            print("<h3 id='responceMessage' class='alert alert-danger'>oh Snap! There Is nothing near by :(</h3>")
         print("</ol>")
         print("</div>")
         print("</div>")

@@ -37,5 +37,5 @@ if __name__== "__main__":
 	except:
 		print("</li>")
 		htmlTail.htmlTail()
-		print("<h3 id='responceMessage' class='alert alert-danger'>oh Snap! I guess something went wrong, Try Again Later! Sorry :)</h2>")
+		print("<h3 id='responceMessage' class='alert alert-danger'>oh Snap! I guess something went wrong, Try Again Later! Sorry :)</h3>")
 		#cgi.print_exception()
