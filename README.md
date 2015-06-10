@@ -1,8 +1,10 @@
 # craverrapp
 Craverr is an Open Source Web App that let's you locate places near you based on waht you are Craving.
+
+
 The MIT License (MIT)
 
-Copyright (c) <2015r> <Craverr>
+Copyright (c) <2015>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
